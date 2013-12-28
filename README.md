@@ -1,7 +1,8 @@
 ## Laravel 4.1 - Starter Kit
-
-
 This is a Laravel 4.1 Starter Kit and it will help you getting started with Laravel 4.1.
+
+Tottaly based on [laravel4-starter-kit](https://github.com/brunogaspar/laravel4-starter-kit)
+
 
 It includes examples on how to use the framework itself and how to use some
 packages, like the awesome [Sentry 2](https://github.com/cartalyst/sentry) package.
@@ -80,11 +81,11 @@ This will be used to send emails to your users, when they register and they requ
 
 ### 5) Make sure app/storage is writable by your web server.
 
-	If permissions are set correctly:
+If permissions are set correctly:
 
 	chmod -R 775 app/storage
 
-	Should work, if not try
+Should work, if not try
 
 	chmod -R 777 app/storage
 -----
@@ -108,10 +109,10 @@ After you being authenticated, you will be redirected back to the administration
 
 -----
 
-### LICENSE
+### 8) LICENSE
 
 This is free software distributed under the terms of the MIT license
 
-### Additional information
+### 9) Additional information
 
 Inspired by and based on laravel4-starter-kit (https://github.com/brunogaspar/laravel4-starter-kit)
